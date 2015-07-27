@@ -51,7 +51,7 @@ public class Node {
 	}
 
 	public void fill(char base, LinkedList<Character> remaining, int depth, int origin) {
-		if (depth < Main.parser.getSize() - this.INIT_DEPTH) {
+		if (depth == Main.parser.getSize() - this.INIT_DEPTH -1) {
 			synchronized(this) {
 				secureFill(base, remaining, depth, origin);
 			}
