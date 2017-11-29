@@ -11,6 +11,4 @@ The output is a distance matrix.
 Note : k should be big enough so that 4^k is significantly bigger than the size of the genomes used as input.
 
 
-To build from the source, the following dependencies are required : 
-GNU Trove : https://bitbucket.org/trove4j/trove
-JCommander : https://github.com/cbeust/jcommander
+Most recent download is available: http://genomeview.org/jenkins/kmertree/
