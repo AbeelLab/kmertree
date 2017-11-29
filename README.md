@@ -11,4 +11,7 @@ The output is a distance matrix.
 Note : k should be big enough so that 4^k is significantly bigger than the size of the genomes used as input.
 
 
+Citation:
+[![DOI](https://zenodo.org/badge/37710846.svg)](https://zenodo.org/badge/latestdoi/37710846)
+
 Most recent build is available: http://genomeview.org/jenkins/kmertree/
